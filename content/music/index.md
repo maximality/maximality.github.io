@@ -50,7 +50,7 @@ showPagination: false
 
 ## Spotify плейлисты
 
-* Inspiration
+* Inspiration (ссылка чуть позже)
 
 
 ## Железо
