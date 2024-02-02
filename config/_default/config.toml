@@ -3,3 +3,4 @@
 baseURL = "https://mmdlit.com/"
 languageCode = "ru"
 defaultContentLanguage = "ru"
+googleAnalytics = "G-KQY0HSJ6L8"

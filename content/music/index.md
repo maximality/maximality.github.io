@@ -2,6 +2,12 @@
 title: "Музыка"
 description: "Информация про мою деятельность в сфере создания музыки 🗣️"
 keywords: "музыка, mmd lit, MPC Live, Roland SP404"
+date: "2024-02-02"
+lastmod: "2024-02-02"
+showDate: false
+showReadingTime: false
+showDateUpdated: true
+showPagination: false
 ---
 
 {{< lead >}}

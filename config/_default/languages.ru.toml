@@ -1,10 +1,10 @@
 # config/_default/languages.ru.toml
 
-title = "mmdlit.com"
+title = "mmd"
 
 [params.author]
-name = "Maxim Mamedov"
-image = "img/me2.jpg"
+name = "Максим Мамедов"
+image = "img/me3.jpg"
 headline = "a.k.a mmd"
 bio = "a.k.a mmd"
 links = [
