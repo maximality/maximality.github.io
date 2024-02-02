@@ -5,7 +5,7 @@ name: GitHub Pages
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build-deploy:
@@ -33,5 +33,5 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: master
+          publish_branch: gh-pages
           publish_dir: ./public
