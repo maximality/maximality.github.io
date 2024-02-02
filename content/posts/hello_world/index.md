@@ -63,6 +63,12 @@ summary: "Первый пост в моём блоге – история соз
 
 ![PaperMod Demo](papermod.png "[Демка](https://adityatelange.github.io/hugo-PaperMod/) темы PaperMode.")
 
+Вот еще классные темы для Hugo:
+* [Congo](https://github.com/jpanther/congo) (установлена на этом сайте)
+* [Blowfish](https://github.com/nunocoracao/blowfish). Есть даже свой helper, помогающий с настройкой
+* [MeMe](https://github.com/reuixiy/hugo-theme-meme)
+* [Archie](https://github.com/athul/archie)
+
 К тому же, Hugo из коробки поддерживает нормальную работу с локализацией (я планирую писать контент на английском) и генерирует сайт за миллисекунды (golang). Ну а установка Hugo на macOS – это 1 команда в [Homebrew](https://brew.sh):
 
 ```
