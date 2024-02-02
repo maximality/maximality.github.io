@@ -1,0 +1,5 @@
+# config/_default/config.toml
+
+baseURL = "https://mmdlit.com/"
+languageCode = "ru"
+defaultContentLanguage = "ru"

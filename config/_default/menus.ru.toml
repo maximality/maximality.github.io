@@ -1,0 +1,28 @@
+# config/_default/menus.ru.toml
+
+[[main]]
+  name = "Проекты"
+  pageRef = "portfolio"
+  weight = 1
+
+[[main]]
+  name = "Обо мне"
+  pageRef = "about"
+  weight = 5
+
+[[main]]
+  name = "Архив"
+  pageRef = "posts"
+  weight = 20
+
+  [[main]]
+  name = "Музыка"
+  pageRef = "music"
+  weight = 10
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"

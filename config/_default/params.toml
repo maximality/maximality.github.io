@@ -1,0 +1,15 @@
+# config/_default/params.toml
+
+colorScheme = "sapphire"
+mainSections = ["posts"]
+
+[list]
+  groupByYear = false
+  showSummary = true
+
+[homepage]
+    layout = "profile"
+    showRecent = true
+
+[footer]
+    showAppearanceSwitcher = true

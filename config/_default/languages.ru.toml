@@ -1,0 +1,15 @@
+# config/_default/languages.ru.toml
+
+title = "mmdlit.com"
+
+[params.author]
+name = "Maxim Mamedov"
+image = "img/me2.jpg"
+headline = "a.k.a mmd"
+bio = "a.k.a mmd"
+links = [
+  { telegram = "https://t.me/mmd_lit" },
+  { twitter = "https://twitter.com/mmd_is_lit" },
+  { linkedin = "https://www.linkedin.com/in/maxim-mamedov-4aa455109" },
+  { email = "mailto:mmd.developer@gmail.com" }
+]
