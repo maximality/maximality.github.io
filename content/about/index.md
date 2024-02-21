@@ -24,10 +24,10 @@ showPagination: false
 ## Что я использую:
 * Xcode
 * Swift
-* UIKit
+* UIKit/SwiftUI
 * Autolayout/SnapKit
 * Frame-based layout
-* Combine (или Rx*)
+* Combine (или Rx*)/Swift Concurrency
 * URLSession (Alamofire)
 * R.swift
 * Bazel
@@ -38,6 +38,6 @@ showPagination: false
 ## Чем я занимаюсь вне написания кода:
 * Проработка системного дизайна решения (вместе со схемой API) с учетом требований и ограничений бизнеса 
 * Работа над улучшением UX
-* Участие в создании дизайна пользовательского UI
+* Участие в создании дизайна UI
 * Анализ продуктовой аналитики
 * Сбор команды и настройка процессов (a.k.a создаю чаты в тг), которые дадут продукт нужного качества
